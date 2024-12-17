@@ -59,6 +59,7 @@ For any queries or feedback, please reach out:
 
 - **Author**: Abhilesh, Srihari, Ishan
 - **GitHub**: [abhi6390](https://github.com/abhi6390) [HC-Srihari](https://github.com/HC-Srihari) [ishan-26](https://github.com/ishan-26)
+- **LinkedIn**: [Abhilesh Bhosale](https://www.linkedin.com/in/abhilesh-bhosale-0b9b33228/)  [H C Srihari](https://www.linkedin.com/in/hc-srihari/)  [Ishan Dhotre](https://www.linkedin.com/in/ishan-dhotre-62ab48242/)    
 ---
 
 Simplify your college event management with Eventify!
