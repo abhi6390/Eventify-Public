@@ -35,10 +35,11 @@ npm install @heroicons/react
 
 | Feature                  | Screenshot |
 |--------------------------|------------|
-| Home Page                | ![Home Page](https://via.placeholder.com/600x400) |           |
-| Class Calendar           | ![Class Calendar](https://via.placeholder.com/600x400) |
-| Faculty Page             | ![Faculty](https://via.placeholder.com/600x400) |
-| Open Electives Calendar  | ![Open Electives Calendar](https://via.placeholder.com/600x400) |
+| Home Page                | ![image](https://github.com/user-attachments/assets/cbbb2d56-2844-41f8-a706-4911680e7e00)
+| Class Calendar           | ![image](https://github.com/user-attachments/assets/0995050a-5a14-4b01-a190-311c3ff47181)
+| Faculty Page             | ![image](https://github.com/user-attachments/assets/f3d7edd5-5ff5-4bb4-b5b0-fa1426b043eb)
+| Open Electives Calendar  | ![image](https://github.com/user-attachments/assets/0e8257a5-87df-463b-a251-786ef480af96)
+ 
 
 ## Contributing 📚
 
