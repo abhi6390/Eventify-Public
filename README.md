@@ -1,6 +1,6 @@
 # Eventify - One place for all your Events! 🎉
 
-Eventify is a comprehensive event management application designed to organize class-wise deadlines, assignments, and academic events for college students and faculty. It offers a centralized platform for keeping track of important dates and ensures seamless communication through notifications and access controls.
+What's cooler than Google Calender? 🤔 Eventify is a comprehensive event management application designed to organize class-wise deadlines, assignments, and academic events for college students and faculty. It offers a centralized platform for keeping track of important dates and ensures seamless communication through notifications and access controls.
 
 ## Features 📊
 
