@@ -1,0 +1,158 @@
+/* Main Calendar */
+.calendar {
+  max-width: 1000px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Calendar Header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.header button, .today-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.header button:hover, .today-button:hover {
+  background-color: #45a049;
+}
+
+/* Calendar Days and Grid */
+.days-of-week, .days {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  font-size: 1.1rem;
+}
+
+.day-of-week, .day {
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 4px;
+}
+
+.day {
+  background-color: #eaf2ff;
+}
+
+.day:hover {
+  background-color: #d0e1ff;
+  cursor: pointer;
+}
+
+.empty-day {
+  visibility: hidden;
+}
+
+/* Highlight today’s date */
+.today {
+  background-color: #4CAF50;
+  color: white;
+  font-weight: bold;
+}
+
+/* Event Titles on Calendar Days */
+.event-title {
+  font-size: 0.8em;
+  color: #ff6347;
+  margin-top: 3px;
+  text-align: center;
+}
+
+/* Popup for Adding and Displaying Events */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 500px;
+  text-align: left;
+}
+
+.input, .textarea {
+  width: 100%;
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+/* Existing Events in Popup */
+.existing-events {
+  margin-top: 20px;
+}
+
+.event-item {
+  margin-bottom: 10px;
+}
+
+.delete-button {
+  background-color: #f44336;
+  color: white;
+  padding: 5px;
+  font-size: 0.8em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #e53935;
+}
+
+/* Popup Buttons */
+.popup-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.save-button, .cancel-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.cancel-button {
+  background-color: #f44336;
+}
+
+.save-button:hover {
+  background-color: #45a049;
+}
+
+.cancel-button:hover {
+  background-color: #e53935;
+}
+ 
